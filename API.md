@@ -1,0 +1,2 @@
+- GET `https://cruzmetro.com/Regions`
+- GET `https://cruzmetro.com/Region/<RegionID>/Routes`
