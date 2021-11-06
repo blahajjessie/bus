@@ -83,6 +83,7 @@
 	]
 	```
 	- stop id number here isn't used anywhere else; RTPI number is used for arrivals
+	- `RouteID` is the _pattern/direction_ ID. `ID` is the _route_ ID.
 - GET `https://cruzmetro.com/Route/<RouteID>/Direction/<DirectionID>/Stops`
 	- useless since the previous one already includes a list of stops for each direction
 - GET `https://cruzmetro.com/Route/<RouteID>/Waypoints`
