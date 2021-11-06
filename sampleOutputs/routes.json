@@ -1,0 +1,818 @@
+[
+  {
+    "ID": 4354,
+    "ArrivalsEnabled": true,
+    "DisplayName": "10 - UCSC via Main Gate - High",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#3368B6",
+    "TextColor": "#FFFFFF",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "10 - UCSC via Main Gate - High",
+    "ShortName": "10",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 16772,
+        "Name": "10-02-8-UCSC/Beach via High",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16147,
+        "Name": "10-00-7-UCSC via High",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 18069,
+        "Name": "10-00-9-UCSC via High",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      }
+    ]
+  },
+  {
+    "ID": 4368,
+    "ArrivalsEnabled": true,
+    "DisplayName": "17 - Amtrak Highway 17 Express",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#E70201",
+    "TextColor": "#FFFFFF",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "17 - Amtrak Highway 17 Express",
+    "ShortName": "17",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 16182,
+        "Name": "17-08-53-Caltrain",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16183,
+        "Name": "17-09-42-SCMC",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      },
+      {
+        "ID": 16184,
+        "Name": "17-14-54-Caltrain",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16185,
+        "Name": "17-15-43-SCMC",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      },
+      {
+        "ID": 16186,
+        "Name": "17-18-69-Caltrain",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16187,
+        "Name": "17-19-70-SCMC",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      }
+    ]
+  },
+  {
+    "ID": 5337,
+    "ArrivalsEnabled": true,
+    "DisplayName": "18 - UCSC via Main Gate - Mission",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#800080",
+    "TextColor": "#FFFFFF",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "18 - UCSC via Main Gate - Mission",
+    "ShortName": "18",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 16773,
+        "Name": "18-00-1-UCSC via Mission",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      }
+    ]
+  },
+  {
+    "ID": 4378,
+    "ArrivalsEnabled": true,
+    "DisplayName": "19 - UCSC via West Gate - Bay",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#84DDFF",
+    "TextColor": "#080808",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "19 - UCSC via West Gate - Bay",
+    "ShortName": "19",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 16149,
+        "Name": "19-00-13-UCSC via Lower Bay",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      }
+    ]
+  },
+  {
+    "ID": 4371,
+    "ArrivalsEnabled": true,
+    "DisplayName": "20 - UCSC via Main Gate - Delaware / Western",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#30F1FF",
+    "TextColor": "#FFFFFF",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "20 - UCSC via Main Gate - Delaware / Western",
+    "ShortName": "20",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 16153,
+        "Name": "20-05-24-UCSC via Safeway",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16150,
+        "Name": "20-00-23-UCSC via Westside",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 18085,
+        "Name": "20-06-25-UCSC via Westside CSC OB",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 18086,
+        "Name": "20-07-26-UCSC via Westside CSC IB",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      }
+    ]
+  },
+  {
+    "ID": 4367,
+    "ArrivalsEnabled": true,
+    "DisplayName": "35 - Highway 9/Scotts Valley",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#26C8FE",
+    "TextColor": "#FFFFFF",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "35 - Highway 9/Scotts Valley",
+    "ShortName": "35",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 16154,
+        "Name": "35-07-76-Mt Store via Hwy 9 IB SV Drive",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      },
+      {
+        "ID": 16155,
+        "Name": "35-09-77-CClub via Glen Arbor IB SV Drive",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      },
+      {
+        "ID": 16156,
+        "Name": "35-13-70-Mt Store to SC Glen Arbr IB",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      },
+      {
+        "ID": 16157,
+        "Name": "35-52-63-Boulder Crk to CClub OB",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16902,
+        "Name": "35-00-78-Mt Store via Glen Arbor",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16903,
+        "Name": "35-06-79-CClub via Hwy 9",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16904,
+        "Name": "35-18-80-Mtn Store and CClub via Hwy 9",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 18104,
+        "Name": "35-19-81-Mtn Store / CClub via Glen Arbor",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 12297,
+        "Name": "35-72-66-CClub via Hwy 9 OB",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 11951,
+        "Name": "35-54-34-Boulder Crk to Bear Crk OB",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 11952,
+        "Name": "35-74-37-Mt Store to Sylvan OB",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 11953,
+        "Name": "35-71-48-Sylvan to Boulder Crk IB",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      },
+      {
+        "ID": 11959,
+        "Name": "35-75-67-Bear Crk Mt Str Glen Arbr ST",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 11956,
+        "Name": "35-70-65-Sylvan via Glen Arbor OB",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 11965,
+        "Name": "35-20-71-Sylvan/Hwy 9 no SVTC OB",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      },
+      {
+        "ID": 11966,
+        "Name": "35-55-73- Bear Crk to SVTC IB",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      },
+      {
+        "ID": 11967,
+        "Name": "35-21-72-Sylvan/Hwy9/SVTC/SV Dr/SCMC",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      }
+    ]
+  },
+  {
+    "ID": 4364,
+    "ArrivalsEnabled": true,
+    "DisplayName": "41 - Empire Grade",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#4AFF50",
+    "TextColor": "#FFFFFF",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "41 - Empire Grade",
+    "ShortName": "41",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 11948,
+        "Name": "41-04-09-Santa Cruz via SCHS IB",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      },
+      {
+        "ID": 16912,
+        "Name": "41-03-10-Empire Grade to Bonny Doon",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      }
+    ]
+  },
+  {
+    "ID": 4362,
+    "ArrivalsEnabled": true,
+    "DisplayName": "42 -Davenport/Bonny Doon",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#962823",
+    "TextColor": "#FFFFFF",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "42 -Davenport/Bonny Doon",
+    "ShortName": "42",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 16161,
+        "Name": "42-00-13-Davenport/Bonny Doon",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16913,
+        "Name": "42-01-14-Davenport/Bonny Doon via Walnut",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      }
+    ]
+  },
+  {
+    "ID": 4361,
+    "ArrivalsEnabled": true,
+    "DisplayName": "55 - Cabrillo - Rio Del Mar",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#FA46A5",
+    "TextColor": "#000000",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "55 - Cabrillo - Rio Del Mar",
+    "ShortName": "55",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 11943,
+        "Name": "55-03-11-Cabrillo/Via Pacifica",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16165,
+        "Name": "55-05-12-Cabrillo/Rio Del Mar",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      }
+    ]
+  },
+  {
+    "ID": 4358,
+    "ArrivalsEnabled": true,
+    "DisplayName": "66 - Live Oak/17th",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#327832",
+    "TextColor": "#FFFFFF",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "66 - Live Oak/17th",
+    "ShortName": "66",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 16166,
+        "Name": "66-00-9-Live Oak via 17th OB",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16167,
+        "Name": "66-01-7-Live Oak via 17th IB",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      },
+      {
+        "ID": 16168,
+        "Name": "66-02-10-Live Oak via 17th/HarborHS OB",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16169,
+        "Name": "66-03-11-Live Oak via 17th/HarborHS IB",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      }
+    ]
+  },
+  {
+    "ID": 4359,
+    "ArrivalsEnabled": true,
+    "DisplayName": "68 - Broadway/Portola",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#913291",
+    "TextColor": "#FFFFFF",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "68 - Broadway/Portola",
+    "ShortName": "68",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 16170,
+        "Name": "68-06-13-Live Oak via Bdwy/Portola OB",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16171,
+        "Name": "68-07-12-Live Oak via Bdwy/Portola IB",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      }
+    ]
+  },
+  {
+    "ID": 4355,
+    "ArrivalsEnabled": true,
+    "DisplayName": "69A - Capitola/Airport",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#E62828",
+    "TextColor": "#000000",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "69A - Capitola/Airport",
+    "ShortName": "69A",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 16172,
+        "Name": "69A-00-5-Capitola Rd/Wats OB",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16173,
+        "Name": "69A-01-6-Capitola Rd/SC IB",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      }
+    ]
+  },
+  {
+    "ID": 4360,
+    "ArrivalsEnabled": true,
+    "DisplayName": "69W - Capitola/Cabrillo",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#FF1C8E",
+    "TextColor": "#FFFFFF",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "69W - Capitola/Cabrillo",
+    "ShortName": "69W",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 16174,
+        "Name": "69W-00-5-Capitola Rd/Wats OB",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16175,
+        "Name": "69W-01-6-Capitola Rd/SC IB",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      }
+    ]
+  },
+  {
+    "ID": 4353,
+    "ArrivalsEnabled": true,
+    "DisplayName": "71 - Soquel/Freedom",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#0A640A",
+    "TextColor": "#FFFFFF",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "71 - Soquel/Freedom",
+    "ShortName": "71",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 12570,
+        "Name": "71-08-20-Wats via Beach Summer only",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      },
+      {
+        "ID": 16180,
+        "Name": "71-09-29-SC via Crestview/Clifford",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      },
+      {
+        "ID": 16906,
+        "Name": "71-00-30-Wats via Crestview",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16907,
+        "Name": "71-01-32-SC via Crestview",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      },
+      {
+        "ID": 16908,
+        "Name": "71-02-31-Wats via Clifford",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16909,
+        "Name": "71-03-33-SC via Clifford",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      },
+      {
+        "ID": 16910,
+        "Name": "71-19-34-Wats via Frdm Ctr/Crstvw",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      }
+    ]
+  },
+  {
+    "ID": 4352,
+    "ArrivalsEnabled": true,
+    "DisplayName": "72 - Green Valley - Hospital",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#912D91",
+    "TextColor": "#FFFFFF",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "72 - Green Valley - Hospital",
+    "ShortName": "72",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 16181,
+        "Name": "72-00-4-Wats Hospital/Pinto Lake",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      }
+    ]
+  },
+  {
+    "ID": 4351,
+    "ArrivalsEnabled": true,
+    "DisplayName": "72W - Green Valley - Corralitos Weekend",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#D87DFF",
+    "TextColor": "#FFFFFF",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "72W - Green Valley - Corralitos Weekend",
+    "ShortName": "72W",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 16188,
+        "Name": "72W-01-2-Corralitos OB",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16189,
+        "Name": "72W-02-3-Corralitos IB",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      }
+    ]
+  },
+  {
+    "ID": 4350,
+    "ArrivalsEnabled": true,
+    "DisplayName": "74S - PVHS/Hospital",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#347D35",
+    "TextColor": "#000000",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "74S - PVHS/Hospital",
+    "ShortName": "74S",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 16190,
+        "Name": "74S-01-4-PVHS OB/Wats Hospital",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16905,
+        "Name": "74S-00-3-PVHS IB/Wats Hospital",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      }
+    ]
+  },
+  {
+    "ID": 4349,
+    "ArrivalsEnabled": true,
+    "DisplayName": "75 - Green Valley - Wheelock",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#80FF59",
+    "TextColor": "#121212",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "75 - Green Valley - Wheelock",
+    "ShortName": "75",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 16191,
+        "Name": "75-01-8-Green Valley OB",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16194,
+        "Name": "75-02-9-Green Valley IB",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      }
+    ]
+  },
+  {
+    "ID": 4348,
+    "ArrivalsEnabled": true,
+    "DisplayName": "79 - East Lake/Crestview",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#FD7BBE",
+    "TextColor": "#000000",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "79 - East Lake/Crestview",
+    "ShortName": "79",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 13322,
+        "Name": "79-01-4 County Fairgrounds",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      },
+      {
+        "ID": 16195,
+        "Name": "79-02-8 East Lake/Crestview",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      }
+    ]
+  },
+  {
+    "ID": 4346,
+    "ArrivalsEnabled": true,
+    "DisplayName": "91X - Cabrillo Express",
+    "CustomerID": 169,
+    "DirectionStops": null,
+    "Points": null,
+    "Color": "#962832",
+    "TextColor": "#FFFFFF",
+    "ArrivalsShowVehicleNames": true,
+    "IsHeadway": false,
+    "ShowLine": true,
+    "Name": "91X - Cabrillo Express",
+    "ShortName": "91X",
+    "RegionIDs": [137],
+    "ForwardDirectionName": null,
+    "BackwardDirectionName": null,
+    "NumberOfVehicles": 0,
+    "Patterns": [
+      {
+        "ID": 16196,
+        "Name": "91X-01-14-SC Express IB",
+        "Direction": "Inbound",
+        "Directionality": "Inbound"
+      },
+      {
+        "ID": 16197,
+        "Name": "91X-02-10-Wats Express OB",
+        "Direction": "Outbound",
+        "Directionality": "Outbound"
+      }
+    ]
+  }
+]
