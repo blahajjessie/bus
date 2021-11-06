@@ -1,0 +1,32 @@
+[
+  {
+    "RouteID": 16773,
+    "Arrivals": [
+      {
+        "RouteID": 16773,
+        "StopID": 4747902,
+        "VehicleID": 5290,
+        "StopId": 4747902,
+        "VehicleId": 5290,
+        "ArriveTime": "1:01 AM",
+        "RouteId": 16773,
+        "Direction": 0,
+        "SchedulePrediction": false,
+        "IsLayover": false,
+        "Rules": [],
+        "ScheduledTime": null,
+        "SecondsToArrival": 181.0581896,
+        "IsLastStop": true,
+        "OnBreak": false,
+        "ScheduledArriveTime": null,
+        "ScheduledMinutes": 0,
+        "TripId": 2973614,
+        "BusName": "1610",
+        "VehicleName": "1610",
+        "RouteName": "18-00-1-UCSC via Mission",
+        "Minutes": 3,
+        "Time": "3"
+      }
+    ]
+  }
+]
