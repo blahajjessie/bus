@@ -1,0 +1,12 @@
+version: '3.9'
+
+services:
+  postgres:
+    image: postgres:14.1
+    environment:
+      - POSTGRES_PASSWORD=amongus
+      - POSTGRES_DB=bus
+    volumes:
+      - ./db-data:/var/lib/postgresql/data
+    ports:
+      - 5432:5432
